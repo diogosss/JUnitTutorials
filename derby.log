@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Mon Mar 06 20:18:11 ECT 2023:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance a816c00e-0186-b9a5-b765-000003b28448 
+on database directory memory:K:\DIEGO_DOCUMENTS\UDEMY_Courses\JUnit 5, Mockito, PowerMock, TDD, BDD & ATTD\YOUtube\junitTuto\96ae37d5-e003-4475-973a-0c08888eea0a with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@2626b418 
+Loaded from file:/C:/Users/Windows%2010/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=12.0.2+10
+user.dir=K:\DIEGO_DOCUMENTS\UDEMY_Courses\JUnit 5, Mockito, PowerMock, TDD, BDD & ATTD\YOUtube\junitTuto
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
